@@ -1,0 +1,25 @@
+https://medlineplus.gov
+https://www.mayoclinic.org
+https://www.heart.org
+https://www.nhlbi.nih.gov/
+https://www.tchin.org
+https://www.heartfoundation.org.au
+https://www.heartresearch.com.au
+
+A Question	
+B URL	
+C Date	
+D Author	
+E Title	
+F Abstract	
+G Main content (First-order)	
+H More information(First-order)	
+I Content (Second-order)	
+J Health Website? (Y/N)	
+K Heart disease Website? (Y/N)	
+L Review	
+M Level of  combination between graphic and text (0-4)	
+N Have own researches?	
+O Have own researches in heart disease field?
+P Level of clear structure？(0-4)	
+Q Reference

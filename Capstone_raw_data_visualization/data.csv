@@ -1,0 +1,230 @@
+id,value
+"Rank",
+"Rank,One",
+"Rank,One,Url 1",3938
+"Rank,One,Url 1,Author",3938
+"Rank,One,Url 1,URL_domain: Com",3938
+"Rank,One,Url 1,Web_Depth: 1",3938
+"Rank,One,Url 1,Date: 2018",3938
+"Rank,One,Url 1,PageRank_Score: 2.53E-10",3938
+"Rank,One,Url 1,Number_of_reference: 0",3938
+"Rank,One,Url 1,Number_of_external_link: 134",3938
+"Rank,One,Url 1,Count_Word: 146",3938
+"Rank,One,Url 1,Tf_Score: 0.24",3938
+"Rank,One,Url 1,Bm25_Score: 0.30",3938
+"Rank,One,Url 2",
+"Rank,One,Url 2,URL_domain: Org",3938
+"Rank,One,Url 2,Web_Depth: 1",3938
+"Rank,One,Url 2,Date: 2018",3938
+"Rank,One,Url 2,PageRank_Score: 8.16E-9",3938
+"Rank,One,Url 2,Number_of_reference: 0",3938
+"Rank,One,Url 2,Number_of_external_link: 28",3938
+"Rank,One,Url 2,Count_Word: 96",3938
+"Rank,One,Url 2,Tf_Score: 0",3938
+"Rank,One,Url 2,Bm25_Score: 0",3938
+"Rank,One,Url 3",
+"Rank,One,Url 3,Author",3938
+"Rank,One,Url 3,URL_domain: Net",3938
+"Rank,One,Url 3,Web_Depth: 1",3938
+"Rank,One,Url 3,Date: 2014",3938
+"Rank,One,Url 3,PageRank_Score: 1.12E-9",3938
+"Rank,One,Url 3,Number_of_reference: 0",3938
+"Rank,One,Url 3,Number_of_external_link: 6",3938
+"Rank,One,Url 3,Count_Word: 122",3938
+"Rank,One,Url 3,Tf_Score: 0",3938
+"Rank,One,Url 3,Bm25_Score: 0",3938
+"Rank,Two",
+"Rank,Two,Url 1",
+"Rank,Two,Url 1,Author",3938
+"Rank,Two,Url 1,URL_domain: Com",3938
+"Rank,Two,Url 1,Web_Depth: 2",3938
+"Rank,Two,Url 1,Date: 2019",3938
+"Rank,Two,Url 1,PageRank_Score: 1.04E-9",3938
+"Rank,Two,Url 1,Number_of_reference: 1",3938
+"Rank,Two,Url 1,Number_of_external_link: 299",3938
+"Rank,Two,Url 1,Count_Word: 1115",3938
+"Rank,Two,Url 1,Tf_Score: 0.93",3938
+"Rank,Two,Url 1,Bm25_Score: 1.94",3938
+"Rank,Two,Url 2",
+"Rank,Two,Url 2,URL_domain: Org",3939
+"Rank,Two,Url 2,Web_Depth: 1",3939
+"Rank,Two,Url 2,Date: 2016",3939
+"Rank,Two,Url 2,PageRank_Score: 1.14E-10",3939
+"Rank,Two,Url 2,Number_of_reference: 1",3939
+"Rank,Two,Url 2,Number_of_external_link: 73",3939
+"Rank,Two,Url 2,Count_Word: 1436",3939
+"Rank,Two,Url 2,Tf_Score: 0.51",3939
+"Rank,Two,Url 2,Bm25_Score: 0.23",3939
+"Rank,Two,Url 3",
+"Rank,Two,Url 3,URL_domain: Org",3939
+"Rank,Two,Url 3,Web_Depth: 1",3939
+"Rank,Two,Url 3,Date: 2019",3939
+"Rank,Two,Url 3,PageRank_Score: 8.04E-3",3938
+"Rank,Two,Url 3,Number_of_reference: 1",3939
+"Rank,Two,Url 3,Number_of_external_link: 44",3939
+"Rank,Two,Url 3,Count_Word: 290",3939
+"Rank,Two,Url 3,Tf_Score: 0.59",3938
+"Rank,Two,Url 3,Bm25_Score: 1.89",3939
+"Rank,Three",
+"Rank,Three,Url 1",
+"Rank,Three,Url 1,Author",3938
+"Rank,Three,Url 1,URL_domain: Com",3938
+"Rank,Three,Url 1,Web_Depth: 1",3938
+"Rank,Three,Url 1,Date: 2016",3938
+"Rank,Three,Url 1,PageRank_Score: 7.92E-9",3938
+"Rank,Three,Url 1,Number_of_reference: 8",3938
+"Rank,Three,Url 1,Number_of_external_link: 11",3938
+"Rank,Three,Url 1,Count_Word: 407",3938
+"Rank,Three,Url 1,Tf_Score: 0.21",3938
+"Rank,Three,Url 1,Bm25_Score: 0.80",3938
+"Rank,Three,Url 2",
+"Rank,Three,Url 2,Author",3938
+"Rank,Three,Url 2,URL_domain: Com",3938
+"Rank,Three,Url 2,Web_Depth: 1",3938
+"Rank,Three,Url 2,Date: 2019",3938
+"Rank,Three,Url 2,PageRank_Score: 6.2E-9",3938
+"Rank,Three,Url 2,Number_of_reference: 11",3938
+"Rank,Three,Url 2,Number_of_external_link: 35",3938
+"Rank,Three,Url 2,Count_Word: 29",3938
+"Rank,Three,Url 2,Tf_Score: 0",3938
+"Rank,Three,Url 2,Bm25_Score: 0",3938
+"Rank,Three,Url 3",
+"Rank,Three,Url 3,Author",3938
+"Rank,Three,Url 3,URL_domain: Org",3938
+"Rank,Three,Url 3,Web_Depth: 1",3938
+"Rank,Three,Url 3,Date: 2018",3938
+"Rank,Three,Url 3,PageRank_Score: 3.15E-10",3938
+"Rank,Three,Url 3,Number_of_external_link: 86",3938
+"Rank,Three,Url 3,Count_Word: 1153",3938
+"Rank,Three,Url 3,Tf_Score: 0.21",3938
+"Rank,Three,Url 3,Bm25_Score: 0.50",3938
+"Rank,Four",
+"Rank,Four,Url 1",
+"Rank,Four,Url 1,URL_domain: Org",3938
+"Rank,Four,Url 1,Web_Depth: 1",3938
+"Rank,Four,Url 1,Date: 2015",3938
+"Rank,Four,Url 1,PageRank_Score: 1.10E-9",3938
+"Rank,Four,Url 1,Number_of_reference: 1",3938
+"Rank,Four,Url 1,Number_of_external_link: 69",3938
+"Rank,Four,Url 1,Count_Word: 1324",3938
+"Rank,Four,Url 1,Tf_Score: 0.29",3938
+"Rank,Four,Url 1,Bm25_Score: 0.30",3938
+"Rank,Four,Url 2",
+"Rank,Four,Url 2,Author",3938
+"Rank,Four,Url 2,URL_domain: Com",3938
+"Rank,Four,Url 2,Web_Depth: 2",3938
+"Rank,Four,Url 2,Date: 2018",3938
+"Rank,Four,Url 2,PageRank_Score: 1.25E-10",3938
+"Rank,Four,Url 2,Number_of_reference: 17",3938
+"Rank,Four,Url 2,Number_of_external_link: 241",3938
+"Rank,Four,Url 2,Count_Word: 717",3938
+"Rank,Four,Url 2,Tf_Score: 0.42",3938
+"Rank,Four,Url 2,Bm25_Score: 1.16",3938
+"Rank,Four,Url 3",
+"Rank,Four,Url 3,URL_domain: Org",3938
+"Rank,Four,Url 3,Web_Depth: 1",3938
+"Rank,Four,Url 3,PageRank_Score: 7.37E-9",3938
+"Rank,Four,Url 3,Number_of_reference: 4",3938
+"Rank,Four,Url 3,Number_of_external_link: 27",3938
+"Rank,Four,Url 3,Count_Word: 120",3938
+"Rank,Four,Url 3,Tf_Score: 0.34",3938
+"Rank,Four,Url 3,Bm25_Score: 0.85",3938
+"Rank,Five",
+"Rank,Five,Url 1",
+"Rank,Five,Url 1,Author",3938
+"Rank,Five,Url 1,URL_domain: Com",3938
+"Rank,Five,Url 1,Web_Depth: 1",3938
+"Rank,Five,Url 1,Date: 2015",3938
+"Rank,Five,Url 1,PageRank_Score: 6.51E-10",3938
+"Rank,Five,Url 1,Number_of_reference: 1",3938
+"Rank,Five,Url 1,Number_of_external_link: 2",3938
+"Rank,Five,Url 1,Count_Word: 719",3938
+"Rank,Five,Url 1,Tf_Score: 1.12",3938
+"Rank,Five,Url 1,Bm25_Score: 1.90",3938
+"Rank,Five,Url 2",
+"Rank,Five,Url 2,Author",3938
+"Rank,Five,Url 2,URL_domain: Com",3938
+"Rank,Five,Url 2,Web_Depth: 1",3938
+"Rank,Five,Url 2,Date: 2013",3938
+"Rank,Five,Url 2,PageRank_Score: 3.85E-8",3938
+"Rank,Five,Url 2,Number_of_external_link: 92",3938
+"Rank,Five,Url 2,Count_Word: 476",3938
+"Rank,Five,Url 2,Tf_Score: 1.95",3938
+"Rank,Five,Url 2,Bm25_Score: 2.39",3938
+"Rank,Five,Url 3",
+"Rank,Five,Url 3,Author",3938
+"Rank,Five,Url 3,URL_domain: Com",3938
+"Rank,Five,Url 3,Web_Depth: 2",3938
+"Rank,Five,Url 3,Date: 2018",3938
+"Rank,Five,Url 3,PageRank_Score: 1.78E-9",3938
+"Rank,Five,Url 3,Number_of_reference: 1",3938
+"Rank,Five,Url 3,Number_of_external_link: 205",3938
+"Rank,Five,Url 3,Count_Word: 809",3938
+"Rank,Five,Url 3,Tf_Score: 1.03",3938
+"Rank,Five,Url 3,Bm25_Score: 0.88",3938
+"Rank,Six",
+"Rank,Six,Url 1",
+"Rank,Six,Url 1,Author",3938
+"Rank,Six,Url 1,URL_domain: Org",3938
+"Rank,Six,Url 1,Web_Depth: 1",3938
+"Rank,Six,Url 1,Date: 2018",3938
+"Rank,Six,Url 1,PageRank_Score: 0.22E-9",3938
+"Rank,Six,Url 1,Number_of_external_link: 222",3938
+"Rank,Six,Url 1,Count_Word: 534",3938
+"Rank,Six,Url 1,Tf_Score: 2.32",3938
+"Rank,Six,Url 1,Bm25_Score: 2.27",3938
+"Rank,Six,Url 2",
+"Rank,Six,Url 2,Author",3938
+"Rank,Six,Url 2,URL_domain: Edu",3938
+"Rank,Six,Url 2,Web_Depth: 1",3938
+"Rank,Six,Url 2,Date: 2019",3938
+"Rank,Six,Url 2,PageRank_Score: 2.22E-9",3938
+"Rank,Six,Url 2,Number_of_external_link: 515",3938
+"Rank,Six,Url 2,Count_Word: 2417",3938
+"Rank,Six,Url 2,Tf_Score: 1.72",3938
+"Rank,Six,Url 2,Bm25_Score: 1.79",3938
+"Rank,Six,Url 3",
+"Rank,Six,Url 3,Author",3938
+"Rank,Six,Url 3,URL_domain: Com",3938
+"Rank,Six,Url 3,Web_Depth: 3",3938
+"Rank,Six,Url 3,Date: 2017",3938
+"Rank,Six,Url 3,PageRank_Score: 8.29E-8",3938
+"Rank,Six,Url 3,Number_of_reference: 3",3938
+"Rank,Six,Url 3,Number_of_external_link: 261",3938
+"Rank,Six,Url 3,Count_Word: 1724",3938
+"Rank,Six,Url 3,Tf_Score: 2.46",3938
+"Rank,Six,Url 3,Bm25_Score: 2.20",3938
+"Rank,Seven",
+"Rank,Seven,Url 1",
+"Rank,Seven,Url 1,Author",3938
+"Rank,Seven,Url 1,URL_domain: Org",3938
+"Rank,Seven,Url 1,Web_Depth: 1",3938
+"Rank,Seven,Url 1,Date: 2018",3938
+"Rank,Seven,Url 1,PageRank_Score: 5.82E-8",3938
+"Rank,Seven,Url 1,Number_of_reference: 22",3938
+"Rank,Seven,Url 1,Number_of_external_link: 129",3938
+"Rank,Seven,Url 1,Count_Word: 2078",3938
+"Rank,Seven,Url 1,Tf_Score: 0.98",3938
+"Rank,Seven,Url 1,Bm25_Score: 2.97",3938
+"Rank,Seven,Url 2",
+"Rank,Seven,Url 2,Author",3938
+"Rank,Seven,Url 2,URL_domain: Org",3938
+"Rank,Seven,Url 2,Web_Depth: 1",3938
+"Rank,Seven,Url 2,Date: 2019",3938
+"Rank,Seven,Url 2,PageRank_Score: 1.12E-8",3938
+"Rank,Seven,Url 2,Number_of_reference: 20",3938
+"Rank,Seven,Url 2,Number_of_external_link: 97",3938
+"Rank,Seven,Url 2,Count_Word: 1302",3938
+"Rank,Seven,Url 2,Tf_Score: 1.83",3938
+"Rank,Seven,Url 2,Bm25_Score: 1.92",3938
+"Rank,Seven,Url 3",
+"Rank,Seven,Url 3,Author",3938
+"Rank,Seven,Url 3,URL_domain: Org",3938
+"Rank,Seven,Url 3,Web_Depth: 1",3938
+"Rank,Seven,Url 3,Date: 2018",3938
+"Rank,Seven,Url 3,PageRank_Score: 7.62E-8",3938
+"Rank,Seven,Url 3,Number_of_reference: 6",3938
+"Rank,Seven,Url 3,Number_of_external_link: 97",3938
+"Rank,Seven,Url 3,Count_Word: 1767",3938
+"Rank,Seven,Url 3,Tf_Score: 2.43",3938
+"Rank,Seven,Url 3,Bm35_Rank: 1.72",3938
